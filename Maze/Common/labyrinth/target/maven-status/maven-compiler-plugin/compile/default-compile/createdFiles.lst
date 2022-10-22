@@ -1,0 +1,12 @@
+game/model/Player.class
+game/model/Tile.class
+game/model/Game.class
+game/model/Board.class
+game/it/StandardBoardIntegrationTest.class
+game/model/Gem.class
+game/model/StandardBoard.class
+game/model/Treasure.class
+game/exceptions/IllegalGameActionException.class
+game/model/Position.class
+game/it/TestRunner.class
+game/model/Direction.class
